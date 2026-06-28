@@ -1,5 +1,5 @@
 # ASCII-Symbol__Art__Generator-Python-
-First big project for CSE.
+My first big project for CSE.
 A terminal-based ASCII Art Generator written in Python.
 
 ## Features
