@@ -18,4 +18,4 @@ A terminal-based ASCII Art Generator written in Python.
 
 ## How to Run
 
-python Python ASCII_ART_Generator v1.0.py
+Python ASCII_ART_Generator v1.0.py
